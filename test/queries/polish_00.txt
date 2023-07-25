@@ -133,7 +133,7 @@ darmoweWifi
 Matt Damon
 nietolerancja
 zielona herbata
-Siec spo≥ecznosciowa
+Siec spo≈Çecznosciowa
 Java
 Khan Academy
 Startup
@@ -198,3 +198,5 @@ jak poznalem twoja matke
 randki online
 Twitter
 MerryChristmasToYou
+twische 
+Liste der IP-Adressen: 10.30.0.* (10.30.0.0 - 10.30.0.254)
