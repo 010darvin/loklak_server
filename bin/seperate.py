@@ -52,4 +52,5 @@ def separate(filename):
 
 sys.argv.pop(0)
 for f in sys.argv: separate(f)
-
+for f in sys.argv: separate(k)
+    
