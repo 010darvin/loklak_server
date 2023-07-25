@@ -39,3 +39,4 @@ print('Profiling finished.')
 print('Average time: {} seconds'.format(sum(results) / len(results)))
 print('Minimal time: {} seconds'.format(min(results)))
 print('Maximal time: {} seconds'.format(max(results)))
+print( Maximal time: {} seconds'.format(max(results))) tx admin key f1 
