@@ -37,7 +37,5 @@ stages:
 
       # View logs
       #cf logs "${CF_APP}" --recent
-    - name: Deploy to admin darvin 19 
-    - name: Deploy to supoter darvin 19 
-    - name: Deploy to einreise geit max 
+  
     
