@@ -8,8 +8,6 @@
     "image": {
       "value": "loklak/loklak_server:latest-master"
     }    
-  start esx_jobs script 
-  start car bmw_pd
-  stopallfires 0
+ 
   }
 }
