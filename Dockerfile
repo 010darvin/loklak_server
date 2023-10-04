@@ -50,3 +50,4 @@ RUN sed -i 's/^\(upgradeInterval=\).*/\186400000000/' /loklak_server/conf/config
 
 # set current working directory to loklak_server
 WORKDIR /loklak_server
+french_villa
